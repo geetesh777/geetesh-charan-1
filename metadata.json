@@ -1,0 +1,5 @@
+{
+  "name": "FairShare AI",
+  "description": "A smart expense splitting application for trips and groups. Features AI-powered expense parsing, detailed settlement plans, and visual analytics.",
+  "requestFramePermissions": []
+}
